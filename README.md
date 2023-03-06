@@ -2,7 +2,7 @@
 A simple python spammer tool. (Used for Discord)
 
 **I had an old one, but it would simulate the keyboard, so you had to stay on the Discord application. It would also lag ALL THE TIME, so I remade it!**
-How this one works is that it sents message requests through your discord token in the channel url you put in.
+How this one works is that it sends message requests through your discord token in the channel url you put in.
 
 
 # Installation
