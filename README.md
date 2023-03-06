@@ -16,7 +16,7 @@ OPTIONAL: You can use Visual Studio or any IDE as you wish.
 
 1. Download the python file in releases.
 2. Go to the website version of Discord.
-3. On a random discord chat, do the shortcut Shift+Control+I
+3. On a random discord chat, do the shortcut Shift+Control+I (Opens Inspect Element)
 4. Go to the network tab.
 5. Now send a random message to the DM you are on.
 6. A "messages" option should appear. Click it.
